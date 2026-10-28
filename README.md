@@ -64,5 +64,20 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Scan My Tesla is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://scanmytesla.com/
+Scan My Tesla provides a platform for owners of Tesla vehicles to remotely access diagnostic data, perform over‑the‑air updates, and retrieve detailed vehicle health reports. The service aggregates telemetry, offers alerts for maintenance, and integrates with third‑party tools for fleet management and analytics, enabling owners and service providers to monitor battery health, range, and performance in real time.
+
+**Areas:** Company · Automotive · Telemetry · Diagnostics · Fleet Management · Tesla
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://scanmytesla.com/)
+- [Changelog](https://www.scanmytesla.com/changelog)
+- [Privacy policy](https://www.scanmytesla.com/privacy-policy)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/scanmytesla/](https://apis.io/providers/scanmytesla/).
